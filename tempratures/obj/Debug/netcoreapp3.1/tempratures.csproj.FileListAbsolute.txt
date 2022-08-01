@@ -1,0 +1,13 @@
+C:\Users\VNR5\Source\Repos\tempratures\tempratures\bin\Debug\netcoreapp3.1\tempratures.exe
+C:\Users\VNR5\Source\Repos\tempratures\tempratures\bin\Debug\netcoreapp3.1\tempratures.deps.json
+C:\Users\VNR5\Source\Repos\tempratures\tempratures\bin\Debug\netcoreapp3.1\tempratures.runtimeconfig.json
+C:\Users\VNR5\Source\Repos\tempratures\tempratures\bin\Debug\netcoreapp3.1\tempratures.runtimeconfig.dev.json
+C:\Users\VNR5\Source\Repos\tempratures\tempratures\bin\Debug\netcoreapp3.1\tempratures.dll
+C:\Users\VNR5\Source\Repos\tempratures\tempratures\bin\Debug\netcoreapp3.1\tempratures.pdb
+C:\Users\VNR5\Source\Repos\tempratures\tempratures\obj\Debug\netcoreapp3.1\tempratures.csprojAssemblyReference.cache
+C:\Users\VNR5\Source\Repos\tempratures\tempratures\obj\Debug\netcoreapp3.1\tempratures.AssemblyInfoInputs.cache
+C:\Users\VNR5\Source\Repos\tempratures\tempratures\obj\Debug\netcoreapp3.1\tempratures.AssemblyInfo.cs
+C:\Users\VNR5\Source\Repos\tempratures\tempratures\obj\Debug\netcoreapp3.1\tempratures.csproj.CoreCompileInputs.cache
+C:\Users\VNR5\Source\Repos\tempratures\tempratures\obj\Debug\netcoreapp3.1\tempratures.dll
+C:\Users\VNR5\Source\Repos\tempratures\tempratures\obj\Debug\netcoreapp3.1\tempratures.pdb
+C:\Users\VNR5\Source\Repos\tempratures\tempratures\obj\Debug\netcoreapp3.1\tempratures.genruntimeconfig.cache
